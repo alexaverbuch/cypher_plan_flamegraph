@@ -1,0 +1,7 @@
+# IDE
+.project
+.classpath
+.settings/
+.idea
+*.iml
+.DS_Store
